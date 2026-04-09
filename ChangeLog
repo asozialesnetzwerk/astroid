@@ -8,9 +8,9 @@ What's New in astroid 4.1.0?
 Release date: TBA
 
 
-What's New in this patch?
+What's New in astroid 4.0.4+asozial?
 ============================
-Release date: 2026-04-07
+Release date: 2026-04-09
 
 * Fix ``RecursionError`` in ``_compute_mro()`` when circular class hierarchies
   are created through runtime name rebinding. Circular bases are now resolved
